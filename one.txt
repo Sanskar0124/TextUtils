@@ -1,0 +1,1 @@
+Hello My name is sankar and i had render this file as a home page by using django
